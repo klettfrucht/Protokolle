@@ -3,8 +3,11 @@
 ---
 
 Projektphase: 
+
 Datum/Uhrzeit: 
+
 Anwesend: 
+
 Protokollführer: 
 
 ---
