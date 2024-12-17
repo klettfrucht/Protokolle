@@ -8,7 +8,7 @@ Datum/Uhrzeit: 10.12.2024 15:15 Uhr
 
 Anwesend: Alle
 
-Protokollführer: Kaspar
+Protokollführer: 
 
 ---
 
