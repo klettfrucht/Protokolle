@@ -15,6 +15,7 @@ Kaspar
 
 ## 1. Diskussionsinhalte
 Experimentieren mit Nachbildungen von Kletten und 3d-gedruckten Klettverschlüssen
+Sammeln von Ideen für Versuche
 
 ---
 
