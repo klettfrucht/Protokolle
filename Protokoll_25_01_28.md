@@ -28,6 +28,7 @@ Protokollführer: Valentin
 - evtl Filz (Ilija)
 - Lupe (Ilija)
 - Schuldruck (Valentin)
+- Datei ausdrucken (Valentin)
 ---
 
 ## 3. Offene Fragen und Unklarheiten
