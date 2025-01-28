@@ -16,6 +16,9 @@ Protokollführer: Valentin
 - Materialbeschaffung und Recherche zu geeigneten Baumaterialien sowie Verschlüssen
 - Weitere Ausarbeitung zu einem Prototyp-Experiment
 - Ziel, nächste Woche Versuche durchzuführen
+- Was kann schiefgehen?
+  - Halterung
+  - Materialvielfalt
 ---
 
 ## 2. Aufgaben
