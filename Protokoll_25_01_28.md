@@ -22,6 +22,12 @@ Protokollführer: Valentin
 - Amazon: Klettverschlüsse PK mitnehmen (Valentin)
 - Hornbach: Klettverschlüsse kaufen (Ilija)
 - Draht und/oder Schnur mitnehmen (Valentin)
+- Styropor mitnehmen (Valentin)
+- Braunes Klebeband mitnehmen (Ilija)
+- Strickstreifen / Wolle (Valentin)
+- evtl Filz (Ilija)
+- Lupe (Ilija)
+- Schuldruck (Valentin)
 ---
 
 ## 3. Offene Fragen und Unklarheiten
