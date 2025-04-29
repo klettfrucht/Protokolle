@@ -7,3 +7,5 @@ Protokolle der verschiedenen Besprechungen
 - [Protokoll vom 7.1.2025](Protokoll_25_01_07.md)
 - [Protokoll vom 14.1.2025](Protokoll_25_01_14.md)
 - [Protokoll vom 28.1.2025](Protokoll_25_01_28.md)
+- [Protokoll von den Versuchen](https://1drv.ms/w/c/a30dd39ceb88e9ff/EclBGnacR2hLnkG5c6T5TqwBKKcx3IlQd1FpdWlUs2paqA?e=6FnbZr)
+- [Protokoll vom 29.4.2025](Protokoll_25_04_29.md)
