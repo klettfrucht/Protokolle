@@ -8,8 +8,7 @@ Datum/Uhrzeit: 7.1.2025 15:15 Uhr
 
 Anwesend: Alle
 
-Protokollführer: 
-Kaspar
+Protokollführer: Kaspar
 
 ---
 

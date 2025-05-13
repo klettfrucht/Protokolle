@@ -8,8 +8,7 @@ Datum/Uhrzeit: 17.12.2024 15:15 Uhr
 
 Anwesend: Alle
 
-Protokollführer: 
-Ilija
+Protokollführer: Ilija
 
 ---
 

@@ -2,21 +2,26 @@
 
 ---
 
-Projektphase: 
+Projektphase: Planung/Umsetzung
 
-Datum/Uhrzeit: 
+Datum/Uhrzeit: 13.05.2025
 
-Anwesend: 
+Anwesend: Alle
 
-Protokollführer: 
+Protokollführer: Kaspar
 
 ---
 
 ## 1. Diskussionsinhalte
 
+Erstellen des Mebis-Kurs, Planung des Versuchaufbaus
+
 ---
 
 ## 2. Aufgaben
+
+CAD-Modelle (Kaspar)
+Bauen des Versuchs (Alle)
 
 ---
 
