@@ -10,3 +10,4 @@ Protokolle der verschiedenen Besprechungen
 - [Protokoll von den Versuchen](https://1drv.ms/w/c/a30dd39ceb88e9ff/EclBGnacR2hLnkG5c6T5TqwBKKcx3IlQd1FpdWlUs2paqA?e=6FnbZr)
 - [Protokoll vom 29.4.2025](Protokoll_25_04_29.md)
 - [Protokoll vom 6.5.2025](Protokoll_25_05_06.md)
+- [Protokoll vom 13.5.2025](Protokoll_25_05_13.md)
