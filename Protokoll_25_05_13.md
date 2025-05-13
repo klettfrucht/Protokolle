@@ -14,14 +14,17 @@ Protokollführer: Kaspar
 
 ## 1. Diskussionsinhalte
 
-Erstellen des Mebis-Kurs, Planung des Versuchaufbaus
+- Erstellen des Mebis-Kurs
+- Planung des Versuchaufbaus
 
 ---
 
 ## 2. Aufgaben
 
-CAD-Modelle (Kaspar)
-Bauen des Versuchs (Alle)
+- CAD-Modelle (Kaspar)
+- Bauen des Versuchs (Alle)
+- Mebis-Kurs
+- Arbeitsblätter
 
 ---
 
