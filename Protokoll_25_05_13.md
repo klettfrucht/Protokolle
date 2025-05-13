@@ -2,7 +2,7 @@
 
 ---
 
-Projektphase: Planung/Umsetzung
+Projektphase: Auswertung/Planung/Umsetzung
 
 Datum/Uhrzeit: 13.05.2025
 
@@ -14,8 +14,10 @@ Protokollführer: Kaspar
 
 ## 1. Diskussionsinhalte
 
-- Erstellen des Mebis-Kurs
-- Planung des Versuchaufbaus
+- Zusammenfassen der Ergebnisse + Fazit (Kaspar)
+- Planung des Versuchaufbaus (Alle)
+- Erstellen von Infoblättern (Ilija)
+- Erstellen des Mebis-Kurs (Valentin)
 
 ---
 
@@ -23,7 +25,7 @@ Protokollführer: Kaspar
 
 - CAD-Modelle (Kaspar)
 - Bauen des Versuchs (Alle)
-- Mebis-Kurs
+- Mebis-Kurs (Alle/Valentin)
 - Arbeitsblätter
 
 ---
