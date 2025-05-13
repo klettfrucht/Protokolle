@@ -13,6 +13,7 @@ Protokollführer: Valentin
 ---
 
 ## 1. Diskussionsinhalte
+
 - Auswertung der Versuchsergebnisse
 - Planen von den 4 Stationen bei der Durchführung
 - Planen der Struktur des Mebis-Kurses
@@ -20,6 +21,7 @@ Protokollführer: Valentin
 ---
 
 ## 2. Aufgaben
+
 - Bau der Versuchsobjekte (alle)
 - Einrichtung des Mebis-Kurses
 

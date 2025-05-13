@@ -13,15 +13,18 @@ Protokollführer: Ilija
 ---
 
 ## 1. Diskussionsinhalte
+
 - Materialbeschaffung und Recherche zu geeigneten Baumaterialien sowie Verschlüssen
 - Weitere Ausarbeitung zu einem Prototyp-Experiment
 
 ---
 
 ## 2. Aufgaben
+
 - Beschluss, wer welche Materialien besorgt
 
 ---
 
 ## 3. Offene Fragen und Unklarheiten
+
 - keine

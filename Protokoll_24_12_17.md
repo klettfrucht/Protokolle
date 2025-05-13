@@ -13,6 +13,7 @@ Protokollführer: Ilija
 ---
 
 ## 1. Diskussionsinhalte
+
 Entwicklung eines möglichen Experiments
 -> Kreativität/ Wettbewerb
 
@@ -28,6 +29,7 @@ Analyse der Klettorgane/-mechanismen unter einem Mikroskop/ Lupe
 ---
 
 ## 2. Aufgaben
+
 Vorerst weitere Recherche sowie Experimentplanung
 
 3d-Drucken von Verschlüssen
