@@ -21,9 +21,11 @@ Aufbau des Mebis-Kurses (Hypothesen, Informationsteil, Lückentext, Quiz)
 ---
 
 ## 2. Aufgaben
+
 Informationsteil des Mebis-Kurses (Ilija)
 Besorgen von extra Testmaterial (Valentin)
 CAD-Modelle (Kaspar)
+
 ---
 
 ## 3. Offene Fragen und Unklarheiten
