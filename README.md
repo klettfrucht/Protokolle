@@ -11,3 +11,4 @@ Protokolle der verschiedenen Besprechungen
 - [Protokoll vom 29.4.2025](Protokoll_25_04_29.md)
 - [Protokoll vom 6.5.2025](Protokoll_25_05_06.md)
 - [Protokoll vom 13.5.2025](Protokoll_25_05_13.md)
+- [Protokoll vom 20.5.2025](Protokoll_25_05_20.md)
