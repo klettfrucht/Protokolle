@@ -22,7 +22,6 @@ Protokollführer: Valentin
 ## 2. Aufgaben
 
 - Finalisierung des Koffers
-- Arbeitsblätter fertigstellen
 - Portfolio erstellen
 - Abschlusspräsentation erstellen
 
