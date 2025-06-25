@@ -20,7 +20,6 @@ Protokollführer: Valentin
 ## 2. Aufgaben
 
 - CAD-Modelle (Kaspar)
-- Bauen des Versuchs (Alle)
 - Arbeitsblätter
 - Portfolio
 - Abschlusspräsentation
